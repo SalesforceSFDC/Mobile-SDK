@@ -1,4 +1,4 @@
-# Mobile-SDK
+# Mobile SDK
 
 * Consumer Key - A value used by the consumer—in this case, the Mobile SDK app—to identify itself to Salesforce. Referred to as `client_id`.
 * Access Token - A value used by the consumer to gain access to protected resources on behalf of the user, instead of using the user’s Salesforce credentials. The access token is a session ID, and can be used directly.
